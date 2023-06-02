@@ -11,6 +11,8 @@
 
 性别：女孩子
 
+瞳孔颜色：蓝色
+
 警惕程度：★
 
 贪吃程度：★★★★★
@@ -31,6 +33,8 @@
 ## ♫斜刘海
 
 性别：男孩子
+
+瞳孔颜色：黄色
 
 警惕程度：★★★★★
 
@@ -54,6 +58,8 @@
   
 性别：男孩子
 
+瞳孔颜色：黄色
+
 警惕程度：★★★
 
 贪吃程度：★★★★★
@@ -68,4 +74,31 @@
 <summary>牛牛照片/戳这里</summary>
 <img src= https://github.com/wei-eeeatOVO/schoolcat/assets/118591722/c0d5dd64-790c-4281-9b93-9f51fe3359d2
  /> 
+ 
+ 此图为牛牛恰猫条照片
+</details>
+
+## §小土星
+
+性别：未知
+
+瞳孔颜色：黄色
+
+警惕程度：★★★★★
+
+贪吃程度：★★
+
+喜欢：未知
+
+关系：未知
+
+出没地点：实验楼后花园
+
+<details>
+<summary>小土星照片/戳这里</summary>
+<img src= https://github.com/wei-eeeatOVO/schoolcat/assets/118591722/d20cb29e-b44b-4a7c-a435-4b76ef9a24d3
+
+ /> 
+ 
+ 此图为抓拍
 </details>
