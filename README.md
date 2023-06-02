@@ -42,7 +42,7 @@
 
 出没地点： 喜欢在实验课的后花园跟小星空结伴而行
 
-details>
+<details>
 <summary>斜刘海照片/戳这里</summary>
 <img src= https://github.com/wei-eeeatOVO/schoolcat/assets/118591722/fbbae019-39e0-453d-84ff-8b7e4585a870
  /> 
