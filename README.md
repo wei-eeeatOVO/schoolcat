@@ -47,7 +47,7 @@
 <img src= https://github.com/wei-eeeatOVO/schoolcat/assets/118591722/fbbae019-39e0-453d-84ff-8b7e4585a870
  /> 
  
- 此图为夫妻照 小星空后面是斜刘海
+    此图为夫妻照 小星空后面是斜刘海
   </details>
   
   ## ♫牛牛
@@ -66,8 +66,6 @@
 
 <details>
 <summary>牛牛照片/戳这里</summary>
-<img src= https://github.com/wei-eeeatOVO/schoolcat/assets/118591722/e624e037-2816-4fe8-a68a-3af3c6c538d4
-
-     此图为牛牛恰猫条照片
+<img src= https://github.com/wei-eeeatOVO/schoolcat/assets/118591722/c0d5dd64-790c-4281-9b93-9f51fe3359d2
  /> 
 </details>
