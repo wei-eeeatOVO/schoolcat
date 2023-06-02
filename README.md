@@ -23,6 +23,6 @@
 
 <details>
 <summary>小星空照片/戳这里</summary>
-<img src= ![QQ图片20230602124348](https://github.com/wei-eeeatOVO/schoolcat/assets/118591722/7bf8ee33-d977-4329-bb96-66f53b81f647)
+<img src= https://github.com/wei-eeeatOVO/schoolcat/assets/118591722/7bf8ee33-d977-4329-bb96-66f53b81f647
  /> 
   </details>
