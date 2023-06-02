@@ -72,7 +72,8 @@
 
 <details>
 <summary>牛牛照片/戳这里</summary>
-<img src= https://github.com/wei-eeeatOVO/schoolcat/assets/118591722/c0d5dd64-790c-4281-9b93-9f51fe3359d2
+<img src= https://github.com/wei-eeeatOVO/schoolcat/assets/118591722/6b92997b-1642-40b2-b68d-70542254de5b
+
  /> 
  
  此图为牛牛恰猫条照片
